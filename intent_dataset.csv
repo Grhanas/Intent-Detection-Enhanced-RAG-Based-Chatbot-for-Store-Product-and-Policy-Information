@@ -1,0 +1,61 @@
+text,intent
+Do you have any wallets in green color?,product_query
+What is the size of Strapold Mini?,product_query
+Is the Strapold Elite available in natural leather?,product_query
+How many cards can the Slim Handmade Wallet hold?,product_query
+Do you have AirTag holders in black?,product_query
+What leather options are available for this product?,product_query
+Is there a thread color option for this model?,product_query
+Do you have a wallet with snap button color 'Nickel'?,product_query
+Does this wallet support personalization?,product_query
+Is this product handmade?,product_query
+What colors does the Mini Bifold come in?,product_query
+Does the wallet come with lifetime guarantee?,product_query
+What is the thickness of the leather?,product_query
+Is the Burgundy option available right now?,product_query
+What is the difference between Natural and Cognac colors?,product_query
+Do you have any minimalist wallets?,product_query
+What’s the estimated delivery for this product?,product_query
+Is there logo-free option for this item?,product_query
+How durable is the stitching?,product_query
+Does this holder support keychain attachment?,product_query
+What is your return policy?,policy_query
+Do you offer international shipping?,policy_query
+How long does shipping take?,policy_query
+Do you accept returns for personalized items?,policy_query
+What is your warranty policy?,policy_query
+Where are your products made?,policy_query
+Do you ship to Germany?,policy_query
+Do I have to pay customs fees?,policy_query
+How can I contact customer support?,policy_query
+What payment methods do you accept?,policy_query
+Is express shipping available?,policy_query
+What happens if my order arrives damaged?,policy_query
+Can I cancel my order?,policy_query
+Do you offer refunds?,policy_query
+What is your production time for custom orders?,policy_query
+Are your materials ethically sourced?,policy_query
+Do you provide order tracking?,policy_query
+What are your packaging materials?,policy_query
+Is there a guarantee for defective products?,policy_query
+How do I exchange an item?,policy_query
+Hi, how are you?,other
+Hello there!,other
+Thanks!,other
+Can you help me?,other
+I need some advice.,other
+What do you recommend?,other
+Tell me more about your company.,other
+I'm just browsing.,other
+You seem helpful!,other
+Is this a chatbot?,other
+I'm not sure what I need yet.,other
+Can you guide me?,other
+Do you understand Turkish?,other
+That’s interesting.,other
+How does this work?,other
+Nice website!,other
+What can you do?,other
+I'm looking around.,other
+Tell me something.,other
+I have a question.,other
