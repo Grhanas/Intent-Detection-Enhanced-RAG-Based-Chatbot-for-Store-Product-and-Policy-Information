@@ -1,5 +1,0 @@
-openai
-gradio
-faiss-cpu
-sentence-transformers
-numpy
